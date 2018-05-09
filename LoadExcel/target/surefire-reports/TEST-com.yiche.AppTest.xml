@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.yiche.AppTest" time="0.018" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\WorkSpace\LoadExcel\target\test-classes;D:\WorkSpace\LoadExcel\target\classes;D:\repository\junit\junit\4.11\junit-4.11.jar;D:\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repository\org\apache\poi\poi\3.9\poi-3.9.jar;D:\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;D:\repository\org\apache\poi\poi-ooxml\3.9\poi-ooxml-3.9.jar;D:\repository\org\apache\poi\poi-ooxml-schemas\3.9\poi-ooxml-schemas-3.9.jar;D:\repository\org\apache\xmlbeans\xmlbeans\2.3.0\xmlbeans-2.3.0.jar;D:\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;D:\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;D:\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;D:\repository\org\mongodb\mongodb-driver\3.2.2\mongodb-driver-3.2.2.jar;D:\repository\org\mongodb\mongodb-driver-core\3.2.2\mongodb-driver-core-3.2.2.jar;D:\repository\org\mongodb\bson\3.2.2\bson-3.2.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\jdk\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\ZHANGH~1\AppData\Local\Temp\surefire1675438312211411307\surefirebooter8841704149271178762.jar C:\Users\zhanghui7\AppData\Local\Temp\surefire1675438312211411307 2018-04-25T14-07-38_501-jvmRun1 surefire352509597068563632tmp surefire_0294289438039342934tmp"/>
+    <property name="surefire.test.class.path" value="D:\WorkSpace\LoadExcel\target\test-classes;D:\WorkSpace\LoadExcel\target\classes;D:\repository\junit\junit\4.11\junit-4.11.jar;D:\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repository\org\apache\poi\poi\3.9\poi-3.9.jar;D:\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;D:\repository\org\apache\poi\poi-ooxml\3.9\poi-ooxml-3.9.jar;D:\repository\org\apache\poi\poi-ooxml-schemas\3.9\poi-ooxml-schemas-3.9.jar;D:\repository\org\apache\xmlbeans\xmlbeans\2.3.0\xmlbeans-2.3.0.jar;D:\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;D:\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;D:\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;D:\repository\org\mongodb\mongodb-driver\3.2.2\mongodb-driver-3.2.2.jar;D:\repository\org\mongodb\mongodb-driver-core\3.2.2\mongodb-driver-core-3.2.2.jar;D:\repository\org\mongodb\bson\3.2.2\bson-3.2.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\zhanghui7"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\jdk\jre"/>
+    <property name="basedir" value="D:\WorkSpace\LoadExcel"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ZHANGH~1\AppData\Local\Temp\surefire1675438312211411307\surefirebooter8841704149271178762.jar"/>
+    <property name="sun.boot.class.path" value="D:\jdk\jre\lib\resources.jar;D:\jdk\jre\lib\rt.jar;D:\jdk\jre\lib\sunrsasign.jar;D:\jdk\jre\lib\jsse.jar;D:\jdk\jre\lib\jce.jar;D:\jdk\jre\lib\charsets.jar;D:\jdk\jre\lib\jfr.jar;D:\jdk\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_112-ea-b04"/>
+    <property name="user.name" value="zhanghui7"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.endorsed.dirs" value="D:\jdk\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ZHANGH~1\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2017.2.5"/>
+    <property name="java.version" value="1.8.0_112-ea"/>
+    <property name="user.dir" value="D:\WorkSpace\LoadExcel"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.library.path" value="D:\jdk\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\windows\System32\WindowsPowerShell\v1.0\;D:\jdk\bin;D:\jdk\jre\bin;C:\windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;D:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files\Mysql\bin;D:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;D:\Program Files\SVN\bin;D:\Program Files\TortoiseGit\bin;D:\Program Files\apache-cxf-2.5.9\apache-cxf-2.5.9\bin;D:\Program Files\rabbitMQ\erl9.2\bin;D:\Program Files\rabbitMQ\RabbitMQ Server\rabbitmq_server-3.3.4\sbin;D:\Program Files\Git\cmd;D:\Program Files\zookeeper-3.3.6\zookeeper-3.3.6\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.112-b04"/>
+    <property name="java.ext.dirs" value="D:\jdk\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\repository"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.yiche.AppTest" time="0.001"/>
+</testsuite>
